@@ -1,0 +1,25 @@
+
+Important: Le script est testé seulment avec mail.ru et Gmail, pour ces deux mail provider le script est fonctionnel 100%.
+
+
+Il ya des paramètres à configurer avant d'executer ce script:
+	
+	* Pour mail.ru il faut:
+		- La création d'un mot de passe spéciale pour les applications extèrnes.
+	
+
+	* Pour Gmail il faut:
+		- L'activation de protocole IMAP (désactivé par défault).
+		- Donner la permission aux applications moins sécurisées d'accés  à votre  boite de messagerie.
+		" Google ne prendra plus en charge l'utilisation d'applications ou d'appareils tiers à partir de 30 mai 2022 "
+
+	* Si vous avez un autre service de messagerie, recherchez les paramètres à configurer sur le web.
+		
+
+
+Le script va ouvrir le dernier email envoyé à votre inbox, et s'il contient des pièces jointes il va les télécharger.
+
+
+Pour executer le script tappez 'python3 tl_pc_j.py'
+
+Lien de vidéo de mon test de script: https://youtu.be/Ma0cPBWyFHo
