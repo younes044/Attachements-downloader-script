@@ -1,4 +1,5 @@
 # important: Lire 'lisez_moi_dabord.txt' avant d'executer ce script
+# Lien de vidéo de mon test de script: https://youtu.be/Ma0cPBWyFHo
 
 import os, email, imaplib
 
